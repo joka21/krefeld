@@ -4,7 +4,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Krefelder Laden',
-  description: 'Dein Portal für regionale und nachhaltige Produkte',
+  description: 'ein Portal für regionale und nachhaltige Produkte',
   icons: {
     icon: '/favicon.ico',
   },
